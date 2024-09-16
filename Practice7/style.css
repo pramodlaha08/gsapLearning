@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#page1{
+    width: 100%;
+    height: 100vh;
+    background-color: #e3e3c4;
+}
+
+#page2{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #556043;
+    padding: 5vw;
+}
+
+#page2 h1{
+    color: #434b34;
+    font-weight: 400;
+    font-size: 4.5vw;
+    line-height: 4.8vw;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+#page h1 span{
+    font-family: "Open Sans", sans-serif;
+}
+
+#page3{
+    width: 100%;
+    height: 100vh;
+    background-color: #e3e3c4;
+}
