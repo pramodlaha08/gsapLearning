@@ -12,6 +12,7 @@ Welcome to the **GSAP Learning**. I learned gsap and locomotive with these pract
 | **Day 6** | [Locomotive JS](./Practice6_Locomotive) | [🔗 Live Demo](https://pramodlaha08.github.io/gsapLearning/Practice6_Locomotive) |
 | **Day 7** | [Locomotive and GSAP ScrollTrigger](./Practice7_locomotiveAndScrollTrigger) | [🔗 Live Demo](https://pramodlaha08.github.io/gsapLearning/Practice7_locomotiveAndScrollTrigger) |
 | **Day 8** | [Small Project](./Practice8) | [🔗 Live Demo](https://pramodlaha08.github.io/gsapLearning/Practice8) |
+| **Day 9** | [Final Project](./Practice9_FinalProject) | [🔗 Live Demo](https://pramodlaha08.github.io/gsapLearning/Practice9_FinalProject) |
 
 
 If you want to practice and know gsap you can clone this repository.
