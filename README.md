@@ -1,6 +1,6 @@
-# 🚀 15 Days of HTML, CSS, and JavaScript Challenges
+# 🚀 GSAP Learning Repo
 
-Welcome to the **15 Days of Code** challenge! Each day brings a new project to help sharpen web development skills. Below is a table showcasing all the projects.
+Welcome to the **GSAP Learning**. I learned gsap and locomotive with these practices. 
 
 | 📅 **Day** | 📝 **Project Name** | 🔗 **View Project** |
 |:---------:|:-------------------|:-------------------|
@@ -13,6 +13,8 @@ Welcome to the **15 Days of Code** challenge! Each day brings a new project to h
 | **Day 7** | [Locomotive and GSAP ScrollTrigger](./Practice7_locomotiveAndScrollTrigger) | [🔗 Live Demo](https://pramodlaha08.github.io/gsapLearning/Practice7_locomotiveAndScrollTrigger) |
 | **Day 8** | [Small Project](./Practice8) | [🔗 Live Demo](https://pramodlaha08.github.io/gsapLearning/Practice8) |
 
+
+If you want to practice and know gsap you can clone this repository.
 
 ## 📚 How to Use
 - Clone the repository:
