@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const contentDiv = document.getElementById('content');
     
-    // Add event listener to each link
+    // Add event listener to each links
     document.querySelectorAll('a[data-route]').forEach(link => {
       link.addEventListener('click', function (event) {
         event.preventDefault();
